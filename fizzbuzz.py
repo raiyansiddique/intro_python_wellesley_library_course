@@ -20,3 +20,6 @@
 # 13
 # 14
 # FizzBuzz
+
+print(1/2)
+print(1%2)

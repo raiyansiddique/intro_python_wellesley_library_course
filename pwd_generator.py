@@ -62,8 +62,6 @@
 
 
 
-
-
 import random 
 # x = "1234567890qwertyuiopasdfghjklzxcvbnm,./;'[]\!@#$%^&*("
 # length = 9
